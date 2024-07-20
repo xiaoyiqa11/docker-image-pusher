@@ -1,1 +1,1 @@
-wireguard:latest
+mysql:latest
